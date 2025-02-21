@@ -62,11 +62,11 @@
     "moment": "2.24.0",
     "nouislider": "13.1.1",
     "react": "^17.0.0",
-    "react-chartjs-2": "^4.0.0",
+    "react-chartjs-2": "^5.3.0",
     "react-data-table-component": "^6.9.3",
     "react-datetime": "2.16.3",
     "react-dom": "^17.0.0",
-    "react-i18next": "^10.10.0",
+    "react-i18next": "^15.4.0",
     "react-loader-spinner": "^4.0.0",
     "react-notifications": "^1.7.4",
     "react-router-dom": "5.1.2",
@@ -83,8 +83,8 @@
     "@types/react": "^17.0.0",
     "husky": "^4.2.5",
     "lint-staged": "^10.2.7",
-    "prettier": "3.3.3",
+    "prettier": "3.5.1",
     "prettier-config-standard": "^1.0.1",
-    "typescript": "3.3.3333"
+    "typescript": "5.7.3"
   }
 }
